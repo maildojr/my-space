@@ -1,0 +1,30 @@
+[{
+        "id": 1,
+        "path": "/assets/images/icons/home.png",
+        "alt": "Home Icon",
+        "link": "Home"
+    }, {
+        "id": 2,
+        "path": "/assets/images/icons/most-viewed.png",
+        "alt": "Most Viewed Icon",
+        "link": "Most Viewed"
+    },
+    {
+        "id": 3,
+        "path": "/assets/images/icons/most-liked.png",
+        "alt": "Most Liked Icon",
+        "link": "Most Liked"
+    },
+    {
+        "id": 4,
+        "path": "/assets/images/icons/new.png",
+        "alt": "New Icon",
+        "link": "New"
+    },
+    {
+        "id": 5,
+        "path": "/assets/images/icons/surprise-me.png",
+        "alt": "Surprise-Me Icon",
+        "link": "Surprise-Me"
+    }
+]

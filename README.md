@@ -1,70 +1,61 @@
-# Getting Started with Create React App
+<h4 align="center"> 
+	<img alt="My Space" title="#MySpace" src="./src/components/Header/logo.png" />
+</h4>
+<p align="center">
+ <a href="#-about-project">About</a> •
+ <a href="#-features">Features</a> •
+ <a href="#-tecnologias">Technologies</a>
+</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<h1 align="center">
+    <img alt="My Space" title="#MySpace" src="./src/pages/home/banner.png" />
+</h1>
 
-## Available Scripts
+## 💻 About Project
 
-In the project directory, you can run:
+🚀 My Space is an application developed for a technical test for a junior frontend developer position. It is an image gallery created for the company [My Space](https://www.myspace.com/) with the purpose of showcasing the incredible images it produces of the observable universe. It is a static application that has only one homepage, but it is highly scalable for adding new features.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## ⚙️ Features
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+- [x] Showcasing an image gallery of the universe;
+- [x] It has transform animations when the mouse hovers over the image;
+- [x] Ability to filter images by tags.
 
-### `npm test`
+### Comming Soon
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- [ ] Ability to perform searches using the page's search field;
+- [ ] Display more popular images upon clicking the "Show More" button;
+- [ ] Add the functionnality to view the image in larger size (modal) when clicking to expand icon on the image;
+- [ ] Add the feature to favorite or like images;
+- [ ] Implement routing and addicional pages in the application;
+- [ ] Implement responsiveness for smaller screens.
 
-### `npm run build`
+---
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+#### 🧭 Installation
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+```bash
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+$ git clone https://github.com/maildojr/my-space.git
 
-### `npm run eject`
+$ cd my-space
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+$ npm install
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+$ npm run start
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+```
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🛠 Technologies
 
-## Learn More
+These are the tools used in the construction of this project:
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+#### **Website**
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+- **[React](https://reactjs.org/)**
+- **[Sass](https://sass-lang.com/)**
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---

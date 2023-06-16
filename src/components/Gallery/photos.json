@@ -1,0 +1,71 @@
+[{
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-1.png",
+        "id": "1",
+        "tag": "Galaxies"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-2.png",
+        "id": "2",
+        "tag": "Stars"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-3.png",
+        "id": "3",
+        "tag": "Moon"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-4.png",
+        "id": "4",
+        "tag": "Galaxies"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-5.png",
+        "id": "5",
+        "tag": "Stars"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-6.png",
+        "id": "6",
+        "tag": "Nebulae"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-7.png",
+        "id": "7",
+        "tag": "Galaxies"
+    },
+    {
+        "title": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-8.png",
+        "id": "8",
+        "tag": "Nebulae"
+    },
+    {
+        "titulo": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-9.png",
+        "id": "9",
+        "tag": "Stars"
+    },
+    {
+        "titulo": "Name of Photo",
+        "credits": "My Space",
+        "image": "/assets/images/gallery/foto-10.png",
+        "id": "10",
+        "tag": "Stars"
+    }
+]
